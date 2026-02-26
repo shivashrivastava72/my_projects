@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local env / secrets
+.venv/
+.env
+
+# Data & outputs (keep local)
+data/
+output/
+*.db
+*.sqlite
+*.duckdb
+
+# Editor/OS clutter
+.vscode/
+.DS_Store
+Thumbs.db
